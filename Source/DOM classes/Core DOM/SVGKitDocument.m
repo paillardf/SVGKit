@@ -1,4 +1,4 @@
-#import "Document.h"
+#import "SVGKitDocument.h"
 #import "Document+Mutable.h"
 
 #import "DOMHelperUtilities.h"

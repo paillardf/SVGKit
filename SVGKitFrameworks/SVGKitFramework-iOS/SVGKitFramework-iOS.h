@@ -36,7 +36,7 @@ FOUNDATION_EXPORT const unsigned char SVGKitFramework_iOSVersionString[];
 #import "CSSValue_ForSubclasses.h"
 #import "CSSValue.h"
 #import "Document+Mutable.h"
-#import "Document.h"
+#import "SVGKitDocument.h"
 #import "DocumentCSS.h"
 #import "DocumentStyle.h"
 #import "StyleSheetList+Mutable.h"
